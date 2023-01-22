@@ -1,0 +1,263 @@
+body{ 
+    background-color:rgb(37, 37, 37);
+    font-family: century-gothic, sans-serif;
+   
+}
+h1 {
+    color: white; text-shadow: rgb(66, 13, 13) 0.1em 0.1em 0.2em;
+    text-align:center;
+    margin-left:770px;
+}
+ul{
+    list-style: none;
+    display: flex;
+}
+li{ 
+    margin-left: 15px;
+    margin-right: 15px;
+
+}
+li a{
+    display:block;
+    padding:10px;
+    background:black;
+    color:white;
+    border: 2px solid red;
+    border-radius: 10px;
+}
+a{
+    text-decoration:none;
+}
+a:hover{  background:grey;
+}
+h2 {text-align:left;
+    color:white; text-shadow:rgb(66, 13, 13) 0.1em 0.1em 0.2em;
+    margin-left: 20px;
+    font-size:30px;
+}
+h3{
+    color:white;
+    text-align: center;
+    margin-top:30px;
+    margin-bottom:30px;
+}
+p{
+    color:white;
+}
+/* titulo */
+#castelo-animado{
+    width: 700px;
+    height: 400px;
+    margin-left: 490px;
+    font-size:21px;
+    color:white; text-shadow:rgb(66, 13, 13) 0.1em 0.1em 0.2em;
+    position:absolute;
+    text-align:center;
+    box-shadow:3px 7px 10px rgb(27, 27, 27);
+}
+#descricao{
+  
+    font-style: normal; font-variant: normal;
+}
+#descricao-castelo{
+    font-size:19px;
+    text-align:center;
+      padding:10px 6px 10px 16px;
+}
+
+#design-site{
+    margin:auto;
+    position:relative;
+    border-top:15px rgb(66, 13, 13);                                         
+}
+#header{
+    background-color: rgb(66, 13, 13);
+    width: 100%;
+    height:80px;
+    display: flex;
+    justify-content: space-between;
+
+}
+#main-icone{
+    position:absolute;
+    margin-left:680px;
+    margin-top:5px;   
+
+}
+#second-icon{
+    position:absolute;
+    margin-left:1240px;
+    margin-top:5px;}
+
+
+  /*CASTELO ANIMADO*/
+    
+
+    #lateral{
+    position:relative;
+    float:right;
+    margin-right:80px;
+    box-shadow:7px 7px 11px rgb(27, 10, 10);
+    border:6px ridge rgb(39, 39, 39);
+     }
+
+        #caucifer{
+        position:relative;
+        margin-right:80px;
+        display: inline-block;
+        margin-top:20px;
+        border:6px ridge rgb(39, 39, 39);
+        box-shadow:7px 7px 11px rgb(27, 10, 10);
+
+        }
+        #caixa-direita{
+        display:grid;
+        position:relative;
+        float:right;
+        }
+        #bordacastelo{
+        position:relative;
+        float:left;
+        margin-left: 40px;
+        border: 6px ridge rgb(39, 39, 39);
+        box-shadow:7px 7px 11px rgb(8, 18, 43);
+        }
+
+        #fotolateral{
+        position:relative;
+        margin-left:300px;
+        }
+
+        #filme1{
+        display:block;
+        width: 100%;
+        height: 600px;
+        }
+
+      #filme2{
+      display:block;
+      width: 100%;
+      height: 600px;
+      padding-top:30px;
+      }
+      #juju{
+      position:relative;
+      float:left;
+      margin-left: 40px;
+      border: 6px ridge rgb(39, 39, 39);
+      box-shadow:7px 7px 11px rgb(46, 49, 12);
+      }
+
+      #jujutsu-sinopse{
+      width: 700px;
+      height: 400px;
+      margin-left: 490px;
+      font-size:20px;
+      color:white; text-shadow:rgb(66, 13, 13) 0.1em 0.1em 0.2em;
+      position:absolute;
+      text-align:center;
+      box-shadow:3px 7px 10px rgb(27, 27, 27);
+     }
+
+      #descricao-jujutsu{
+      font-size:19px;
+      text-align:center;
+      padding:10px 6px 10px 16px;
+       }
+
+       #loiro-brabo{
+       position:relative;
+       float:right;
+       margin-right:80px;
+       box-shadow:7px 7px 11px rgb(27, 10, 10);
+       border:6px ridge rgb(39, 39, 39);
+       }
+
+       #sukuna{
+       position:relative;
+       margin-right:80px;
+       display: inline-block;
+       margin-top:20px;
+       border:6px ridge rgb(39, 39, 39);
+       box-shadow:7px 7px 11px rgb(27, 10, 10);}
+
+       #footer{ 
+       display: inline-block;
+       text-align: center;
+       width: 100%; 
+       background: rgba(0, 0, 0, 0.178);
+       }
+
+
+
+        #filme3{
+        display:block;
+        width: 100%;
+        height: 600px;
+        padding-top:30px;
+        }
+        #jack {
+        position:relative;
+        float:left;
+        margin-left: 40px;
+        border: 6px ridge rgb(39, 39, 39);
+        box-shadow:7px 7px 11px rgb(28, 15, 63);
+         }
+        #jack-sinopse{
+        width: 700px;
+        height: 400px;
+        margin-left: 490px;
+        font-size:20px;
+        color:white; text-shadow:rgb(66, 13, 13) 0.1em 0.1em 0.2em;
+        position:absolute;
+        text-align:center;
+        box-shadow:3px 7px 10px rgb(27, 27, 27);
+        }
+
+        #jack-desc{
+        font-size:20px;
+        text-align:center;
+        padding:10px 6px 10px 16px;
+        }
+
+        #descricao-jack{
+        font-size:19px;
+        text-align:center;
+        padding:10px 6px 10px 16px;
+        }
+
+        #natal{
+        position:relative;
+        float:right;
+        margin-right:80px;
+        box-shadow:7px 7px 11px rgb(27, 10, 10);
+        border:6px ridge rgb(39, 39, 39);
+        }
+
+        #jacknatalino{
+        position:relative;
+        margin-right:80px;
+        display: inline-block;
+        margin-top:20px;
+        border:6px ridge rgb(39, 39, 39);
+        box-shadow:7px 7px 11px rgb(27, 10, 10);}
+
+         #filme4{
+         display:block;
+         width: 100%;
+         height: 600px;
+         padding-top:30px;
+         }
+
+        #jojo {
+         position:relative;
+         float:left;
+         margin-left: 40px;
+         border: 6px ridge rgb(39, 39, 39);
+         box-shadow:7px 7px 11px rgb(41, 28, 78); }   
+
+
+
+                
+      
+
